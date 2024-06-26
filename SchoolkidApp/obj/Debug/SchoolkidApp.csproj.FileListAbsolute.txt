@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\SchoolkidApp\bin\Debug\SchoolkidApp.exe.config
+C:\Users\User\source\repos\SchoolkidApp\bin\Debug\SchoolkidApp.exe
+C:\Users\User\source\repos\SchoolkidApp\bin\Debug\SchoolkidApp.pdb
+C:\Users\User\source\repos\SchoolkidApp\obj\Debug\SchoolkidApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SchoolkidApp\obj\Debug\SchoolkidApp.Properties.Resources.resources
+C:\Users\User\source\repos\SchoolkidApp\obj\Debug\SchoolkidApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SchoolkidApp\obj\Debug\SchoolkidApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SchoolkidApp\obj\Debug\SchoolkidApp.exe
+C:\Users\User\source\repos\SchoolkidApp\obj\Debug\SchoolkidApp.pdb
+C:\Users\User\source\repos\SchoolkidApp\obj\Debug\SchoolkidApp.Form1.resources
+C:\Users\User\Desktop\Производственная практика\SchoolkidApp\bin\Debug\SchoolkidApp.exe.config
+C:\Users\User\Desktop\Производственная практика\SchoolkidApp\bin\Debug\SchoolkidApp.exe
+C:\Users\User\Desktop\Производственная практика\SchoolkidApp\bin\Debug\SchoolkidApp.pdb
+C:\Users\User\Desktop\Производственная практика\SchoolkidApp\obj\Debug\SchoolkidApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Производственная практика\SchoolkidApp\obj\Debug\SchoolkidApp.Form1.resources
+C:\Users\User\Desktop\Производственная практика\SchoolkidApp\obj\Debug\SchoolkidApp.Properties.Resources.resources
+C:\Users\User\Desktop\Производственная практика\SchoolkidApp\obj\Debug\SchoolkidApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Производственная практика\SchoolkidApp\obj\Debug\SchoolkidApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Производственная практика\SchoolkidApp\obj\Debug\SchoolkidApp.exe
+C:\Users\User\Desktop\Производственная практика\SchoolkidApp\obj\Debug\SchoolkidApp.pdb
